@@ -77,3 +77,9 @@ None of these are built for the needs of journalists. Our Ask tool is.
 Online comments are broken. Our Talk tool rethinks how moderation, comment display, and conversation function, creating the opportunity for safer, smarter discussions around your work.
 
 [Website](https://coralproject.net/products/talk.html)
+
+### Proof-Mode
+
+ProofMode is light, minimal "reboot" of our full encrypted, verified secure camera app, CameraV (guardianproject.info/apps/camerav). Our hope was to create a lightweight, almost invisible utility, that you can run all of the time on your phone, that automatically extra digital proof data to all photos and videos you take. This data can then be easily shared through a "Share Proof" share action, to anyone you choose.
+
+[Website](https://github.com/guardianproject/proofmode)
