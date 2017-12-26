@@ -83,3 +83,9 @@ Online comments are broken. Our Talk tool rethinks how moderation, comment displ
 ProofMode is light, minimal "reboot" of our full encrypted, verified secure camera app, CameraV (guardianproject.info/apps/camerav). Our hope was to create a lightweight, almost invisible utility, that you can run all of the time on your phone, that automatically extra digital proof data to all photos and videos you take. This data can then be easily shared through a "Share Proof" share action, to anyone you choose.
 
 [Website](https://github.com/guardianproject/proofmode)
+
+### Video As Evidence
+
+Through our Video as Evidence program, WITNESS collaborates with activists, human rights lawyers and international justice organizations to enhance the evidentiary value of video captured in the field.
+
+[Website](https://vae.witness.org/)
